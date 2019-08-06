@@ -2,12 +2,8 @@
 Quickly create chrome "apps" to use custom images as icons. A limitation of build 76.0.3809.90
 //Spencer McDonald - 2019
 
-╔═╗┬ ┬┌─┐┌┬┐┌─┐┌┬┐                       
-║  │ │└─┐ │ │ ││││                       
-╚═╝└─┘└─┘ ┴ └─┘┴ ┴                       
-╔═╗┬ ┬┬─┐┌─┐┌┬┐┌─┐╔═╗╔═╗  ╦┌─┐┌─┐┌┐┌┌─┐  
-║  ├─┤├┬┘│ ││││├┤ ║ ║╚═╗  ║│  │ ││││└─┐ 
-╚═╝┴ ┴┴└─└─┘┴ ┴└─┘╚═╝╚═╝  ╩└─┘└─┘┘└┘└─┘  
+
+Custom Chrome Icons
 ___________________________________________________
 
 Dead simple copy paste for creating chrome apps as pointers to pages, with custom apps.
