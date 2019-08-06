@@ -1,0 +1,25 @@
+{
+  "app": {
+    "launch": {
+      "urls": [
+        "your url"
+      ],
+      "web_url": "your url",
+      "container": "tab"
+    }
+  },
+  "offline_enabled": false,
+  "permissions": [],
+  "requirements": {
+    "3D": {
+      "features": []
+    }
+  },
+  "icons": {
+    "256": "your image here"
+  },
+  "name": "your name here",
+  "description": "your description here",
+  "version": "1.0.0.0",
+  "manifest_version": 2
+}
